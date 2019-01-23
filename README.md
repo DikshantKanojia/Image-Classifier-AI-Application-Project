@@ -10,3 +10,6 @@ Load and preprocess the image dataset
 Train the image classifier on your dataset
 Use the trained classifier to predict image content
 When we've completed this project, we will have an application that can be trained on any set of labeled images. Here our network will be learning about flowers and end up as a command line application.
+
+## NOTE: 
+THE 'checkpoint.pth' file and the datasets were too large to upload. 
