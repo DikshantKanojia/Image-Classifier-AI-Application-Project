@@ -24,4 +24,4 @@ This project uses the following technical concepts, librarires, and softwares:
 - Matplotlib
 - tensorflow
 - Deep Learning 
-- Neural Networks - Vgg, Densenet, Alexnet
+- Neural Networks : Vgg, Densenet, Alexnet
